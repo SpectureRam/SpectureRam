@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2 align="left">Hi 👋! My name is Sairam and I'm a Web Developer and Data Analyst from Dindigul, Tamilnadu, India.</h2>
 
 ###
