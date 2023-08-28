@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/ZXkraFrlIW1D25M6ZJ/giphy.gif"  />
 
 ###
 
@@ -87,7 +87,6 @@
 </div>
 
 ###
-
 <!--
 **SpectureRam/SpectureRam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
